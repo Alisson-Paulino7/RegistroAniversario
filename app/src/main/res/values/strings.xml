@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="insira_seu_usu_rio_aqui">Insira seu usuário aqui</string>
+    <string name="senha">Senha</string>
+    <string name="usu_rio">Usuário</string>
+    <string name="logar">Logar</string>
+</resources>
